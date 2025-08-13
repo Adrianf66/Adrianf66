@@ -36,7 +36,6 @@ Nos momentos de pausa entre linhas de código, me aventuro por mundos de **fanta
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 #### 🧪 Ferramentas do dia a dia
 
@@ -52,7 +51,6 @@ Nos momentos de pausa entre linhas de código, me aventuro por mundos de **fanta
 > 🚀 Cada novo aprendizado é uma etapa na jornada. Estas são as tecnologias que estou começando a explorar:
 
 - ⚙️ **Angular** – Dando os primeiros passos com roteamento, serviços e reatividade  
-- 🌐 **Next.js** – Explorando renderização moderna e estrutura de projetos  
 - 🔗 **APIs RESTful** – Aprendendo boas práticas de comunicação entre sistemas com segurança  
 - 🧱 **Arquitetura de Software** – Descobrindo princípios como SOLID e padrões para sistemas bem estruturados
 
