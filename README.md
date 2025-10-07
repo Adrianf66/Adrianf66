@@ -59,7 +59,7 @@ Nos momentos de pausa entre linhas de código, me aventuro por mundos de **fanta
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianf66&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Estatísticas GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianf66&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Estatísticas GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianf66&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
